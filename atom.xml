@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>luogg写字的地方</title>
+  <title>luogg&#39;s Blog</title>
   <icon>https://www.gravatar.com/avatar/7abdb276bc05b4613cfc8446527b9bd1</icon>
   <subtitle>每天进步一点点</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://tqqluo.com/</id>
   
   <author>
-    <name>闫洛嘉</name>
+    <name>luogg</name>
     <email>bug_developer@163.com</email>
   </author>
   
