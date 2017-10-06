@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-06T03:35:55.512Z</updated>
+  <updated>2017-10-06T12:19:39.090Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Eclipse快捷键总结</title>
+    <link href="http://yoursite.com/2017/10/06/Eclipse%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2017/10/06/Eclipse快捷键总结/</id>
+    <published>2017-10-06T12:17:20.000Z</published>
+    <updated>2017-10-06T12:19:39.090Z</updated>
+    
+    <content type="html"><![CDATA[<p> 保存 Ctrl+S  </p><p> 刷新 F5  </p><p> 关闭 Ctrl+W  </p><p> 属性 Alt+Enter  </p><p> Format Ctrl+Shift+F  </p><p> 删除行 Ctrl+D  </p><a id="more"></a><p> 在当前行上面插入行 Ctrl+Shift+Enter  </p><p> 在当前行下面插入行 Shift+Enter  </p><p> 更改为大写 Ctrl+Shift+X  </p><p> 更改为小写 Ctrl+Shift+Y  </p><p> 选择行末 Shift+End  </p><p> 将活动视图或编辑器最大化 Ctrl+M  </p><p> 复制 Ctrl+C  </p><p> 撤销 Ctrl+Z  </p><p> 查找并替换 Ctrl+F  </p><p> 粘贴 Ctrl+V  </p><p> 单步跳入 F5  </p><p> 单步跳过 F6  </p><p> 剪切 Ctrl+X  </p><p> 复制行 Ctrl+Alt+向下键  </p><p> 重复行 Ctrl+Alt+向上键  </p><p> 选择行首 Shift+Home  </p><p> Show   In   Spring   Beans   View Ctrl+Alt+V   </p><p> Zoom   In Ctrl+=  </p><p> Zoom   Out Ctrl+-  </p><p> 关闭用户帮助托盘 Ctrl+F4  </p><p> 关闭用户帮助托盘 Ctrl+W  </p><p> 在工作空间中查找文本 Ctrl+Alt+G  </p><p> 工作空间中的声明 Ctrl+G  </p><p> 工作空间中的引用 Ctrl+Shift+G  </p><p> 打开“搜索”对话框 Ctrl+H  </p><p> 显示“文件中的出现位置”快速菜单 Ctrl+Shift+U  </p><p> “新建”菜单 Alt+Shift+N  </p><p> Open   Java   Type Ctrl+Alt+T  </p><p> 全部保存 Ctrl+Shift+S  </p><p> 全部关闭 Ctrl+Shift+F4  </p><p> 全部关闭 Ctrl+Shift+W  </p><p> 关闭 Ctrl+F4  </p><p> 打印 Ctrl+P  </p><p> 新建 Ctrl+N  </p><p> 重命名 F2  </p><p> Jump   to   Java Alt+F8  </p><p> Jump   to   Specification Alt+F7  </p><p> Jump   to   Specification Alt+F7   </p><p> Jump   to   Template Alt+F6  </p><p> Jump   to   Template Alt+F6  </p><p> Next   Attribute Ctrl+Alt+右箭头  </p><p> Next   Tag Ctrl+Alt+向下键  </p><p> Open   Declaration F3  </p><p> Open   Structure Ctrl+F3  </p><p> Previous   Attribute Ctrl+Alt+左箭头  </p><p> Previous   Tag Ctrl+Alt+向上键  </p><p> Show   Outline Ctrl+O  </p><p> 上一个词语 Ctrl+左箭头  </p><p> 上滚行 Ctrl+向上键  </p><p> 下一个词语 Ctrl+右箭头  </p><p> 下滚行 Ctrl+向下键  </p><p> 全部展开 Ctrl+Numpad_Multiply  </p><p> 全部折叠 Ctrl+Shift+Numpad_Divide  </p><p> 切换折叠 Ctrl+Numpad_Divide  </p><p> 删除上一个词语 Ctrl+Backspace  </p><p> 删除下一个词语 Ctrl+Delete  </p><p> 删除至行末 Ctrl+Shift+Delete  </p><p> 复位结构 Ctrl+Shift+Numpad_Multiply  </p><p> 将行上移 Alt+向上键  </p><p> 将行下移 Alt+向下键  </p><p> 展开 Ctrl+Numpad_Add  </p><p> 折叠 Ctrl+Numpad_Subtract  </p><p> 改写切换 Insert  </p><p> 文本开头 Ctrl+Home  </p><p> 文本末尾 Ctrl+End  </p><p> 行末 End  </p><p> 行首 Home  </p><p> 选择上一个词语 Ctrl+Shift+左箭头  </p><p> 选择下一个词语 Ctrl+Shift+右箭头  </p><p> Java   包资源管理器 Alt+Shift+Q，P  </p><p> Java   声明 Alt+Shift+Q，D  </p><p> Java   类型层次结构 Alt+Shift+Q，T  </p><p> Javadoc Alt+Shift+Q，J  </p><p> 变量 Alt+Shift+Q，V  </p><p> 同步 Alt+Shift+Q，Y  </p><p> 备忘单 Alt+Shift+Q，H  </p><p> 控制台 Alt+Shift+Q，C  </p><p> 搜索 Alt+Shift+Q，S  </p><p> 断点 Alt+Shift+Q，B  </p><p> 显示视图   (查看:   大纲) Alt+Shift+Q，O  </p><p> 显示视图 Alt+Shift+Q，Q  </p><p> 显示视图   (查看:   问题) Alt+Shift+Q，X  </p><p> “显示位置”菜单 Alt+Shift+W  </p><p> 上一个编辑位置 Ctrl+Q  </p><p> 上一项 Ctrl+  </p><p> 下一项 Ctrl+.  </p><p> 前移历史记录 Alt+右箭头  </p><p> 后退历史记录 Alt+左箭头  </p><p> 在层次结构中打开类型 Ctrl+Shift+H  </p><p> 快速大纲 Ctrl+O  </p><p> 快速层次结构 Ctrl+T  </p><p> 打开声明 F3  </p><p> 打开外部   Javadoc Shift+F2  </p><p> 打开类型 Ctrl+Shift+T  </p><p> 打开类型层次结构 F4  </p><p> 打开结构 Ctrl+F3  </p><p> 打开调用层次结构 Ctrl+Alt+H  </p><p> 打开资源 Ctrl+Shift+R  </p><p> 转至上一个成员 Ctrl+Shift+向上键  </p><p> 转至下一个成员 Ctrl+Shift+向下键  </p><p> 转至匹配的方括号 Ctrl+Shift+P  </p><p> 转至行 Ctrl+L  </p><p> 切换   Ant   标记出现 Alt+Shift+O  </p><p> 切换标记出现 Alt+Shift+O  </p><p> 切换注释 Ctrl+/  </p><p> 切换注释 Ctrl+7  </p><p> 切换注释 Ctrl+Shift+C  </p><p> 包围方式快速菜单 Alt+Shift+Z  </p><p> 在文件中重命名 Alt+Shift+R  </p><p> 快速辅助   －   在文件中重命名 Ctrl+2，R  </p><p> 快速辅助   －   指定给字段 Ctrl+2，F  </p><p> 快速辅助   －   指定给局部变量 Ctrl+2，L  </p><p> 打开外部文档 Shift+F2  </p><p> 显示工具提示描述 F2  </p><p> 显示源代码快速菜单 Alt+Shift+S  </p><p> 格式化 Ctrl+Shift+F  </p><p> 格式化 Ctrl+Shift+F  </p><p> 添加   Javadoc   注释 Alt+Shift+J  </p><p> 添加块注释 Ctrl+Shift+/  </p><p> 添加导入 Ctrl+Shift+M  </p><p> 组织导入 Ctrl+Shift+O  </p><p> 缩进行 Ctrl+I  </p><p> 除去出现注释 Alt+Shift+U  </p><p> 除去块注释 Ctrl+Shift+”  </p><p> 上一个编辑器 Ctrl+Shift+F6  </p><p> 上一个视图 Ctrl+Shift+F7  </p><p> 上一个透视图 Ctrl+Shift+F8  </p><p> 下一个编辑器 Ctrl+F6  </p><p> 下一个视图 Ctrl+F7  </p><p> 下一个透视图 Ctrl+F8  </p><p> 切换至编辑器 Ctrl+Shift+E  </p><p> 快速切换编辑器 Ctrl+E  </p><p> 显示标尺上下文菜单 Ctrl+F10  </p><p> 显示系统菜单 Alt+-  </p><p> 显示视图菜单 Ctrl+F10  </p><p> 显示键辅助 Ctrl+Shift+L  </p><p> 激活编辑器 F12  </p><p> Add   Block   Comment Ctrl+Shift+/  </p><p> Format   Active   Elements Ctrl+I  </p><p> Format   Document Ctrl+Shift+F  </p><p> Move Alt+Shift+V  </p><p> Occurrences   in   File Ctrl+Shift+A  </p><p> Open   Selection F3  </p><p> Quick   Fix Ctrl+1  </p><p> Remove   Block   Comment Ctrl+Shift+”  </p><p> Rename Alt+Shift+R  </p><p> Restore   Last   Selection Alt+Shift+向下键  </p><p> Run   Query   command Ctrl+F9  </p><p> Run   SQL Ctrl+F9  </p><p> Select   Enclosing   Element Alt+Shift+向上键  </p><p> Select   Next   Element Alt+Shift+右箭头  </p><p> Select   Previous   Element Alt+Shift+左箭头  </p><p> Show   Tooltip   Description F2  </p><p> Toggle   Comment Ctrl+Shift+C  </p><p> “快速差别”开关 Ctrl+Shift+Q  </p><p> 上下文信息 Alt+?  </p><p> 上下文信息 Alt+Shift+?  </p><p> 上下文信息 Ctrl+Shift+Space  </p><p> 全部选中 Ctrl+A  </p><p> 内容辅助 Alt+/  </p><p> 切换插入方式 Ctrl+Shift+Insert  </p><p> 删除 Delete  </p><p> 剪切 Shift+Delete  </p><p> 增量查找 Ctrl+J  </p><p> 增量逆向查找 Ctrl+Shift+J  </p><p> 复制 Ctrl+Insert  </p><p> 复原上一个选择 Alt+Shift+向下键  </p><p> 快速修正 Ctrl+1  </p><p> 文字补全 Ctrl+Alt+/  </p><p> 显示工具提示描述 F2  </p><p> 查找上一个 Ctrl+Shift+K  </p><p> 查找下一个 Ctrl+K  </p><p> 粘贴 Shift+Insert  </p><p> 选择上一个元素 Alt+Shift+左箭头  </p><p> 选择下一个元素 Alt+Shift+右箭头  </p><p> 选择外层元素 Alt+Shift+向上键  </p><p> 重做 Ctrl+Y  </p><p> Debug   on   Server Alt+Shift+D，R  </p><p> EOF Ctrl+Z  </p><p> Profile   on   Server Alt+Shift+P，R  </p><p> Run   on   Server Alt+Shift+X，R  </p><p> 下一个内存监视器 Ctrl+Alt+N  </p><p> 切换内存监视器窗格 Ctrl+T  </p><p> 切换单步执行过滤器 Shift+F5  </p><p> 切换行断点 Ctrl+Shift+B  </p><p> 单步跳入选择的内容 Ctrl+F5  </p><p> 单步返回 F7  </p><p> 执行 Ctrl+U  </p><p> 显示 Ctrl+Shift+D  </p><p> 检查 Ctrl+Shift+I  </p><p> 添加内存块 Ctrl+Alt+M  </p><p> 继续 F8  </p><p> 调试   Ant   构建 Alt+Shift+D，Q  </p><p> 调试   Eclipse   应用程序 Alt+Shift+D，E  </p><p> 调试   Equinox   框架 Alt+Shift+D，X  </p><p> 调试   JUnit   插件测试 Alt+Shift+D，P  </p><p> 调试   JUnit   测试 Alt+Shift+D，T  </p><p> 调试   Java   Applet Alt+Shift+D，A  </p><p> 调试   Java   应用程序 Alt+Shift+D，J  </p><p> 调试   SWT   应用程序 Alt+Shift+D，S  </p><p> 调试上次启动 F11  </p><p> 转至地址 Ctrl+G  </p><p> 运行   Ant   构建 Alt+Shift+X，Q  </p><p> 运行   Eclipse   应用程序 Alt+Shift+X，E  </p><p> 运行   Equinox   框架 Alt+Shift+X，X  </p><p> 运行   JUnit   插件测试 Alt+Shift+X，P  </p><p> 运行   JUnit   测试 Alt+Shift+X，T  </p><p> 运行   Java   Applet Alt+Shift+X，A  </p><p> 运行   Java   应用程序 Alt+Shift+X，J  </p><p> 运行   SWT   应用程序 Alt+Shift+X，S  </p><p> 运行上次启动 Ctrl+F11  </p><p> 运行至行 Ctrl+R  </p><p> 内联 Alt+Shift+I  </p><p> 抽取局部变量 Alt+Shift+L  </p><p> 抽取方法 Alt+Shift+M  </p><p> 显示重构快速菜单 Alt+Shift+T  </p><p> 更改方法特征符 Alt+Shift+C  </p><p> 移动   －   重构 Alt+Shift+V  </p><p> 重命名   －   重构 Alt+Shift+R  </p><p> 全部构建 Ctrl+B</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 保存 Ctrl+S  &lt;/p&gt;
+&lt;p&gt; 刷新 F5  &lt;/p&gt;
+&lt;p&gt; 关闭 Ctrl+W  &lt;/p&gt;
+&lt;p&gt; 属性 Alt+Enter  &lt;/p&gt;
+&lt;p&gt; Format Ctrl+Shift+F  &lt;/p&gt;
+&lt;p&gt; 删除行 Ctrl+D  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="快捷键" scheme="http://yoursite.com/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java基础_01.Java基本概述</title>
+    <link href="http://yoursite.com/2017/10/06/java%E5%9F%BA%E7%A1%80-01-Java%E5%9F%BA%E6%9C%AC%E6%A6%82%E8%BF%B0/"/>
+    <id>http://yoursite.com/2017/10/06/java基础-01-Java基本概述/</id>
+    <published>2017-10-06T12:08:26.000Z</published>
+    <updated>2017-10-06T12:13:14.511Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>##本文为博主辛苦总结,希望自己以后返回来看的时候理解更深刻,也希望可以起到帮助初学者的作用.</p><p>##<strong>转载请注明 出自 : <a href="http://www.cnblogs.com/luogg" target="_blank" rel="external">luogg的博客园</a> </strong>  谢谢配合! </p></blockquote><h2 id="1-1基础常识"><a href="#1-1基础常识" class="headerlink" title="1.1基础常识"></a>1.1基础常识</h2><h5 id="常用的dos命令"><a href="#常用的dos命令" class="headerlink" title="常用的dos命令"></a>常用的dos命令</h5><ul><li>dir 列出当前目录下的文件及文件夹</li><li>md 创建目录</li><li>rd 删除目录</li><li>cd 进入指定目录    </li></ul><a id="more"></a><ul><li>cd.. 退回到上一级目录</li><li>cd\ 退回到根目录</li><li>del 删除指定文件</li><li>exit 退出dos命令行</li><li>cls 清空dos命令行</li><li>echo javase&gt;1.txt 创建1.txt并写javase</li></ul><hr><blockquote><p>java是SUN(Stanford University Network)1995年推出的一门高级编程语言。</p></blockquote><h5 id="java语言的特点"><a href="#java语言的特点" class="headerlink" title="java语言的特点"></a>java语言的特点</h5><p>1.面向对象</p><ul><li>两个基本概念：类，对象</li><li>三大特性：封装，继承，多态</li></ul><p>2.健壮性</p><ul><li>吸收了c/c++有点，去掉了指针、内存申请与释放等，提供了一个相对安全的访问机制。</li><li>3.跨平台性</li><li>安装一个JVM虚拟机，由jvm负责java程序在该系统中运行。</li></ul><hr><h5 id="java两种核心机制"><a href="#java两种核心机制" class="headerlink" title="java两种核心机制"></a>java两种核心机制</h5><ul><li>java虚拟机</li><li>垃圾回收机制</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">graph LR</div><div class="line">*.java--&gt;*.clasS</div></pre></td></tr></table></figure><hr><h3 id="JDK的安装"><a href="#JDK的安装" class="headerlink" title="JDK的安装"></a>JDK的安装</h3><ul><li>jdk是提供给java开发人员的，包含了java开发工具(例如编译工具javac.exe,打包工具jar.exe)，也包含了jre，</li><li>配置环境变量是为了在dos底下的任何位置都可以使用jdk的命令</li><li>测试jdk是否安装好：dos底下输入javac或者java -version</li><li>配置环境变量即将java bin目录地址复制到classPath中</li><li>为什么要设置JAVA_HOME变量，变量值为java的目录地址呢？因为防止bin目录被放到其他位置之后jdk失效。以后只需要修改JAVA_HOME中的变量即可，也防止Path的被不小心修改。</li><li>增加JAVA_HOME以后，path设置为%JAVA_HOME%\bin; %为动态的获取地址</li></ul><hr><h4 id="第一个程序HelloWorld及常见问题"><a href="#第一个程序HelloWorld及常见问题" class="headerlink" title="第一个程序HelloWorld及常见问题"></a>第一个程序HelloWorld及常见问题</h4><ul><li>一个源文件里边有几个class类，编译后就会生成几个对应的class文件。</li><li>一个源文件中只能将一个类定义为public。因为定义的public的类名必须与源文件名相同。</li><li>mian()方法是程序的入口，方法内是程序的执行部分。<h5 id="执行程序："><a href="#执行程序：" class="headerlink" title="执行程序："></a>执行程序：</h5></li></ul><ol><li>编译：javac.exe 编译完，生成诸多个.class字节码文件。</li><li>运行：java.exe</li></ol><hr><h5 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h5><ul><li>单行注释 //这是单行注释</li><li>多行注释 /<em> 这是多行注释 </em>/</li><li>文档注释 注释内容可以被javadoc所解析，生成一套以网页形式体现的该程序的说明 javadoc -d mydoc -author -version HelloWorld.java<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">/**</div><div class="line">    *@author 指定java程序作者</div><div class="line">    *@version 指定源文件版本号</div><div class="line">    *@param 方法的参数说明</div><div class="line">*/</div></pre></td></tr></table></figure></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      看看显示什么？
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>my test</title>
@@ -63,7 +108,7 @@
     <link href="http://yoursite.com/2017/08/31/my-first-blog/"/>
     <id>http://yoursite.com/2017/08/31/my-first-blog/</id>
     <published>2017-08-30T16:33:43.000Z</published>
-    <updated>2017-08-30T16:38:04.433Z</updated>
+    <updated>2017-10-06T12:04:55.535Z</updated>
     
     <content type="html"><![CDATA[<blockquote><h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1></blockquote><h3 id="This-is-my-first-blog"><a href="#This-is-my-first-blog" class="headerlink" title="This is my first blog"></a>This is my first blog</h3><ul><li>1.哈哈</li><li>2.呵呵</li></ul>]]></content>
     
@@ -72,8 +117,6 @@
       附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面
     
     </summary>
-    
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
       <category term="java" scheme="http://yoursite.com/tags/java/"/>
