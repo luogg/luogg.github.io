@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>luogg写字的地方</title>
-  
+  <icon>https://www.gravatar.com/avatar/7abdb276bc05b4613cfc8446527b9bd1</icon>
   <subtitle>每天进步一点点</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://tqqluo.com/"/>
   <updated>2017-10-06T17:30:23.840Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://tqqluo.com/</id>
   
   <author>
     <name>闫洛嘉</name>
-    
+    <email>bug_developer@163.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>CSS3学习总结</title>
-    <link href="http://yoursite.com/2017/10/07/CSS3%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
-    <id>http://yoursite.com/2017/10/07/CSS3学习总结/</id>
+    <link href="http://tqqluo.com/2017/10/07/CSS3%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+    <id>http://tqqluo.com/2017/10/07/CSS3学习总结/</id>
     <published>2017-10-06T17:29:47.000Z</published>
     <updated>2017-10-06T17:30:23.840Z</updated>
     
@@ -40,14 +40,14 @@
     </summary>
     
     
-      <category term="css" scheme="http://yoursite.com/tags/css/"/>
+      <category term="css" scheme="http://tqqluo.com/tags/css/"/>
     
   </entry>
   
   <entry>
     <title>HTML5学习总结</title>
-    <link href="http://yoursite.com/2017/10/07/HTML5%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
-    <id>http://yoursite.com/2017/10/07/HTML5学习总结/</id>
+    <link href="http://tqqluo.com/2017/10/07/HTML5%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+    <id>http://tqqluo.com/2017/10/07/HTML5学习总结/</id>
     <published>2017-10-06T17:28:30.000Z</published>
     <updated>2017-10-06T17:29:18.441Z</updated>
     
@@ -69,14 +69,14 @@
     </summary>
     
     
-      <category term="html" scheme="http://yoursite.com/tags/html/"/>
+      <category term="html" scheme="http://tqqluo.com/tags/html/"/>
     
   </entry>
   
   <entry>
     <title>WebLogic的安装和配置以及MyEclipse中配置WebLogic</title>
-    <link href="http://yoursite.com/2017/10/07/WebLogic%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE%E4%BB%A5%E5%8F%8AMyEclipse%E4%B8%AD%E9%85%8D%E7%BD%AEWebLogic/"/>
-    <id>http://yoursite.com/2017/10/07/WebLogic的安装和配置以及MyEclipse中配置WebLogic/</id>
+    <link href="http://tqqluo.com/2017/10/07/WebLogic%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE%E4%BB%A5%E5%8F%8AMyEclipse%E4%B8%AD%E9%85%8D%E7%BD%AEWebLogic/"/>
+    <id>http://tqqluo.com/2017/10/07/WebLogic的安装和配置以及MyEclipse中配置WebLogic/</id>
     <published>2017-10-06T17:27:02.000Z</published>
     <updated>2017-10-06T17:27:40.144Z</updated>
     
@@ -90,14 +90,14 @@
     </summary>
     
     
-      <category term="weblogic" scheme="http://yoursite.com/tags/weblogic/"/>
+      <category term="weblogic" scheme="http://tqqluo.com/tags/weblogic/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb_08.EL、JSTL</title>
-    <link href="http://yoursite.com/2017/10/07/JavaWeb-08-EL%E3%80%81JSTL/"/>
-    <id>http://yoursite.com/2017/10/07/JavaWeb-08-EL、JSTL/</id>
+    <link href="http://tqqluo.com/2017/10/07/JavaWeb-08-EL%E3%80%81JSTL/"/>
+    <id>http://tqqluo.com/2017/10/07/JavaWeb-08-EL、JSTL/</id>
     <published>2017-10-06T17:25:13.000Z</published>
     <updated>2017-10-06T17:39:38.551Z</updated>
     
@@ -115,14 +115,14 @@
     </summary>
     
     
-      <category term="javaweb" scheme="http://yoursite.com/tags/javaweb/"/>
+      <category term="javaweb" scheme="http://tqqluo.com/tags/javaweb/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb_07.jsp</title>
-    <link href="http://yoursite.com/2017/10/07/JavaWeb-06-jsp/"/>
-    <id>http://yoursite.com/2017/10/07/JavaWeb-06-jsp/</id>
+    <link href="http://tqqluo.com/2017/10/07/JavaWeb-06-jsp/"/>
+    <id>http://tqqluo.com/2017/10/07/JavaWeb-06-jsp/</id>
     <published>2017-10-06T17:23:56.000Z</published>
     <updated>2017-10-06T17:24:42.475Z</updated>
     
@@ -141,14 +141,14 @@
     </summary>
     
     
-      <category term="javaweb" scheme="http://yoursite.com/tags/javaweb/"/>
+      <category term="javaweb" scheme="http://tqqluo.com/tags/javaweb/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb_06.filter过滤器</title>
-    <link href="http://yoursite.com/2017/10/07/JavaWeb-06-filter%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
-    <id>http://yoursite.com/2017/10/07/JavaWeb-06-filter过滤器/</id>
+    <link href="http://tqqluo.com/2017/10/07/JavaWeb-06-filter%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
+    <id>http://tqqluo.com/2017/10/07/JavaWeb-06-filter过滤器/</id>
     <published>2017-10-06T17:23:08.000Z</published>
     <updated>2017-10-06T17:23:37.793Z</updated>
     
@@ -165,14 +165,14 @@
     </summary>
     
     
-      <category term="javaweb" scheme="http://yoursite.com/tags/javaweb/"/>
+      <category term="javaweb" scheme="http://tqqluo.com/tags/javaweb/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb_05.cookie、session、httpSession</title>
-    <link href="http://yoursite.com/2017/10/07/JavaWeb-05-cookie%E3%80%81session%E3%80%81httpSession/"/>
-    <id>http://yoursite.com/2017/10/07/JavaWeb-05-cookie、session、httpSession/</id>
+    <link href="http://tqqluo.com/2017/10/07/JavaWeb-05-cookie%E3%80%81session%E3%80%81httpSession/"/>
+    <id>http://tqqluo.com/2017/10/07/JavaWeb-05-cookie、session、httpSession/</id>
     <published>2017-10-06T17:22:07.000Z</published>
     <updated>2017-10-06T17:22:36.949Z</updated>
     
@@ -189,14 +189,14 @@
     </summary>
     
     
-      <category term="javaweb" scheme="http://yoursite.com/tags/javaweb/"/>
+      <category term="javaweb" scheme="http://tqqluo.com/tags/javaweb/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb_04.查询、乱码、路径问题、重定向、cookie</title>
-    <link href="http://yoursite.com/2017/10/07/JavaWeb-04-%E6%9F%A5%E8%AF%A2%E3%80%81%E4%B9%B1%E7%A0%81%E3%80%81%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98%E3%80%81%E9%87%8D%E5%AE%9A%E5%90%91%E3%80%81cookie/"/>
-    <id>http://yoursite.com/2017/10/07/JavaWeb-04-查询、乱码、路径问题、重定向、cookie/</id>
+    <link href="http://tqqluo.com/2017/10/07/JavaWeb-04-%E6%9F%A5%E8%AF%A2%E3%80%81%E4%B9%B1%E7%A0%81%E3%80%81%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98%E3%80%81%E9%87%8D%E5%AE%9A%E5%90%91%E3%80%81cookie/"/>
+    <id>http://tqqluo.com/2017/10/07/JavaWeb-04-查询、乱码、路径问题、重定向、cookie/</id>
     <published>2017-10-06T17:21:00.000Z</published>
     <updated>2017-10-06T17:21:21.725Z</updated>
     
@@ -213,14 +213,14 @@
     </summary>
     
     
-      <category term="javaweb" scheme="http://yoursite.com/tags/javaweb/"/>
+      <category term="javaweb" scheme="http://tqqluo.com/tags/javaweb/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb_03.员工信息增删改查</title>
-    <link href="http://yoursite.com/2017/10/07/JavaWeb-03-%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5/"/>
-    <id>http://yoursite.com/2017/10/07/JavaWeb-03-员工信息增删改查/</id>
+    <link href="http://tqqluo.com/2017/10/07/JavaWeb-03-%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5/"/>
+    <id>http://tqqluo.com/2017/10/07/JavaWeb-03-员工信息增删改查/</id>
     <published>2017-10-06T17:19:33.000Z</published>
     <updated>2017-10-06T17:20:01.241Z</updated>
     
@@ -235,14 +235,14 @@
     </summary>
     
     
-      <category term="javaweb" scheme="http://yoursite.com/tags/javaweb/"/>
+      <category term="javaweb" scheme="http://tqqluo.com/tags/javaweb/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb_02.登录校验、查询所有员工信息</title>
-    <link href="http://yoursite.com/2017/10/07/JavaWeb-02-%E7%99%BB%E5%BD%95%E6%A0%A1%E9%AA%8C%E3%80%81%E6%9F%A5%E8%AF%A2%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF/"/>
-    <id>http://yoursite.com/2017/10/07/JavaWeb-02-登录校验、查询所有员工信息/</id>
+    <link href="http://tqqluo.com/2017/10/07/JavaWeb-02-%E7%99%BB%E5%BD%95%E6%A0%A1%E9%AA%8C%E3%80%81%E6%9F%A5%E8%AF%A2%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF/"/>
+    <id>http://tqqluo.com/2017/10/07/JavaWeb-02-登录校验、查询所有员工信息/</id>
     <published>2017-10-06T17:18:27.000Z</published>
     <updated>2017-10-06T17:18:58.753Z</updated>
     
@@ -259,14 +259,14 @@
     </summary>
     
     
-      <category term="javaweb" scheme="http://yoursite.com/tags/javaweb/"/>
+      <category term="javaweb" scheme="http://tqqluo.com/tags/javaweb/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb_01.HTTP、Servlet</title>
-    <link href="http://yoursite.com/2017/10/07/JavaWeb-01-HTTP%E3%80%81Servlet/"/>
-    <id>http://yoursite.com/2017/10/07/JavaWeb-01-HTTP、Servlet/</id>
+    <link href="http://tqqluo.com/2017/10/07/JavaWeb-01-HTTP%E3%80%81Servlet/"/>
+    <id>http://tqqluo.com/2017/10/07/JavaWeb-01-HTTP、Servlet/</id>
     <published>2017-10-06T17:17:10.000Z</published>
     <updated>2017-10-06T17:17:52.132Z</updated>
     
@@ -285,14 +285,14 @@
     </summary>
     
     
-      <category term="javaweb" scheme="http://yoursite.com/tags/javaweb/"/>
+      <category term="javaweb" scheme="http://tqqluo.com/tags/javaweb/"/>
     
   </entry>
   
   <entry>
     <title>JDBC_04.大对象、Dao、Bean、DButil</title>
-    <link href="http://yoursite.com/2017/10/07/JDBC-04-%E5%A4%A7%E5%AF%B9%E8%B1%A1%E3%80%81Dao%E3%80%81Bean%E3%80%81DButil/"/>
-    <id>http://yoursite.com/2017/10/07/JDBC-04-大对象、Dao、Bean、DButil/</id>
+    <link href="http://tqqluo.com/2017/10/07/JDBC-04-%E5%A4%A7%E5%AF%B9%E8%B1%A1%E3%80%81Dao%E3%80%81Bean%E3%80%81DButil/"/>
+    <id>http://tqqluo.com/2017/10/07/JDBC-04-大对象、Dao、Bean、DButil/</id>
     <published>2017-10-06T17:14:56.000Z</published>
     <updated>2017-10-06T17:15:29.693Z</updated>
     
@@ -309,14 +309,14 @@
     </summary>
     
     
-      <category term="jdbc" scheme="http://yoursite.com/tags/jdbc/"/>
+      <category term="jdbc" scheme="http://tqqluo.com/tags/jdbc/"/>
     
   </entry>
   
   <entry>
     <title>JDBC_03.批处理、事务、元数据</title>
-    <link href="http://yoursite.com/2017/10/07/JDBC-03-%E6%89%B9%E5%A4%84%E7%90%86%E3%80%81%E4%BA%8B%E5%8A%A1%E3%80%81%E5%85%83%E6%95%B0%E6%8D%AE/"/>
-    <id>http://yoursite.com/2017/10/07/JDBC-03-批处理、事务、元数据/</id>
+    <link href="http://tqqluo.com/2017/10/07/JDBC-03-%E6%89%B9%E5%A4%84%E7%90%86%E3%80%81%E4%BA%8B%E5%8A%A1%E3%80%81%E5%85%83%E6%95%B0%E6%8D%AE/"/>
+    <id>http://tqqluo.com/2017/10/07/JDBC-03-批处理、事务、元数据/</id>
     <published>2017-10-06T17:12:48.000Z</published>
     <updated>2017-10-06T17:41:19.323Z</updated>
     
@@ -333,14 +333,14 @@
     </summary>
     
     
-      <category term="jdbc" scheme="http://yoursite.com/tags/jdbc/"/>
+      <category term="jdbc" scheme="http://tqqluo.com/tags/jdbc/"/>
     
   </entry>
   
   <entry>
     <title>JDBC_02.DML以及预编译、DBUtil工具类</title>
-    <link href="http://yoursite.com/2017/10/07/JDBC-02-DML%E4%BB%A5%E5%8F%8A%E9%A2%84%E7%BC%96%E8%AF%91%E3%80%81DBUtil%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
-    <id>http://yoursite.com/2017/10/07/JDBC-02-DML以及预编译、DBUtil工具类/</id>
+    <link href="http://tqqluo.com/2017/10/07/JDBC-02-DML%E4%BB%A5%E5%8F%8A%E9%A2%84%E7%BC%96%E8%AF%91%E3%80%81DBUtil%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
+    <id>http://tqqluo.com/2017/10/07/JDBC-02-DML以及预编译、DBUtil工具类/</id>
     <published>2017-10-06T17:11:49.000Z</published>
     <updated>2017-10-06T17:12:18.362Z</updated>
     
@@ -360,14 +360,14 @@
     </summary>
     
     
-      <category term="jdbc" scheme="http://yoursite.com/tags/jdbc/"/>
+      <category term="jdbc" scheme="http://tqqluo.com/tags/jdbc/"/>
     
   </entry>
   
   <entry>
     <title>JDBC_01.连接oracle以及查询语句</title>
-    <link href="http://yoursite.com/2017/10/07/JDBC-01-%E8%BF%9E%E6%8E%A5oracle%E4%BB%A5%E5%8F%8A%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5/"/>
-    <id>http://yoursite.com/2017/10/07/JDBC-01-连接oracle以及查询语句/</id>
+    <link href="http://tqqluo.com/2017/10/07/JDBC-01-%E8%BF%9E%E6%8E%A5oracle%E4%BB%A5%E5%8F%8A%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5/"/>
+    <id>http://tqqluo.com/2017/10/07/JDBC-01-连接oracle以及查询语句/</id>
     <published>2017-10-06T17:10:15.000Z</published>
     <updated>2017-10-06T17:10:51.322Z</updated>
     
@@ -390,14 +390,14 @@
     </summary>
     
     
-      <category term="jdbc" scheme="http://yoursite.com/tags/jdbc/"/>
+      <category term="jdbc" scheme="http://tqqluo.com/tags/jdbc/"/>
     
   </entry>
   
   <entry>
     <title>Linux学习笔记</title>
-    <link href="http://yoursite.com/2017/10/07/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    <id>http://yoursite.com/2017/10/07/Linux学习笔记/</id>
+    <link href="http://tqqluo.com/2017/10/07/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://tqqluo.com/2017/10/07/Linux学习笔记/</id>
     <published>2017-10-06T17:05:27.000Z</published>
     <updated>2017-10-06T17:06:06.721Z</updated>
     
@@ -411,14 +411,14 @@
     </summary>
     
     
-      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
+      <category term="linux" scheme="http://tqqluo.com/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>sublime之markdown快捷键</title>
-    <link href="http://yoursite.com/2017/10/07/sublime%E4%B9%8Bmarkdown%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
-    <id>http://yoursite.com/2017/10/07/sublime之markdown快捷键/</id>
+    <link href="http://tqqluo.com/2017/10/07/sublime%E4%B9%8Bmarkdown%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>http://tqqluo.com/2017/10/07/sublime之markdown快捷键/</id>
     <published>2017-10-06T17:04:24.000Z</published>
     <updated>2017-10-06T17:04:55.052Z</updated>
     
@@ -440,14 +440,14 @@
     </summary>
     
     
-      <category term="快捷键" scheme="http://yoursite.com/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+      <category term="快捷键" scheme="http://tqqluo.com/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     
   </entry>
   
   <entry>
     <title>Maven学习笔记</title>
-    <link href="http://yoursite.com/2017/10/07/Maven%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    <id>http://yoursite.com/2017/10/07/Maven学习笔记/</id>
+    <link href="http://tqqluo.com/2017/10/07/Maven%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://tqqluo.com/2017/10/07/Maven学习笔记/</id>
     <published>2017-10-06T17:02:33.000Z</published>
     <updated>2017-10-06T17:03:03.205Z</updated>
     
@@ -466,14 +466,14 @@
     </summary>
     
     
-      <category term="maven" scheme="http://yoursite.com/tags/maven/"/>
+      <category term="maven" scheme="http://tqqluo.com/tags/maven/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis_03.mapper.xml优化</title>
-    <link href="http://yoursite.com/2017/10/07/MyBatis-03-mapper-xml%E4%BC%98%E5%8C%96/"/>
-    <id>http://yoursite.com/2017/10/07/MyBatis-03-mapper-xml优化/</id>
+    <link href="http://tqqluo.com/2017/10/07/MyBatis-03-mapper-xml%E4%BC%98%E5%8C%96/"/>
+    <id>http://tqqluo.com/2017/10/07/MyBatis-03-mapper-xml优化/</id>
     <published>2017-10-06T17:01:28.000Z</published>
     <updated>2017-10-06T17:44:37.755Z</updated>
     
@@ -490,14 +490,14 @@
     </summary>
     
     
-      <category term="mybatis" scheme="http://yoursite.com/tags/mybatis/"/>
+      <category term="mybatis" scheme="http://tqqluo.com/tags/mybatis/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis_02.增删改查、数据库字段与实体字段不一致情况</title>
-    <link href="http://yoursite.com/2017/10/07/MyBatis-02-%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E3%80%81%E5%AD%97%E6%AE%B5%E4%B8%8D%E4%B8%80%E8%87%B4%E6%83%85%E5%86%B5/"/>
-    <id>http://yoursite.com/2017/10/07/MyBatis-02-增删改查、字段不一致情况/</id>
+    <link href="http://tqqluo.com/2017/10/07/MyBatis-02-%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E3%80%81%E5%AD%97%E6%AE%B5%E4%B8%8D%E4%B8%80%E8%87%B4%E6%83%85%E5%86%B5/"/>
+    <id>http://tqqluo.com/2017/10/07/MyBatis-02-增删改查、字段不一致情况/</id>
     <published>2017-10-06T16:59:33.000Z</published>
     <updated>2017-10-06T17:00:25.526Z</updated>
     
@@ -515,7 +515,7 @@
     </summary>
     
     
-      <category term="mybatis" scheme="http://yoursite.com/tags/mybatis/"/>
+      <category term="mybatis" scheme="http://tqqluo.com/tags/mybatis/"/>
     
   </entry>
   
